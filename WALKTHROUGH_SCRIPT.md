@@ -52,3 +52,4 @@
 > *"Architecture-wise: We keep natural language empathy in the LLM, but keep statutes, limitations, and safety strictly in deterministic code. At production scale, this costs less than ₹0.35 per case, meaning 100,000 cases cost less than $400 a month.*
 >
 > *All 13 unedited test outputs, the full test runner, and the 2-page solution PDF are included in the repository. Thank you for your time!"*
+

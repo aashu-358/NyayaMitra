@@ -287,3 +287,4 @@ class NyayaMitraEngine:
                 user_coaching_tip="Be polite but uncompromising: 'I value our professional relationship, but commercial commitments must be honored. Please confirm the payment date within 7 days to avoid formal statutory recovery.'",
                 relevant_fact_to_cite="Statutory interest accumulates under Section 73 of the Indian Contract Act."
             )
+

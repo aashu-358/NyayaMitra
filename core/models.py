@@ -82,3 +82,4 @@ class OpponentSimulationTurn(BaseModel):
     underlying_tactic: str = Field(..., description="Psychological/legal tactic being used (e.g. stall, bluff, intimidate)")
     user_coaching_tip: str = Field(..., description="What the user should say or reply with next to stand firm")
     relevant_fact_to_cite: str = Field(..., description="Specific evidence or clause the user should mention")
+

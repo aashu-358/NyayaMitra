@@ -140,3 +140,4 @@ def get_verified_statutes_for_category(category: DisputeCategory) -> List[Verifi
 def validate_legal_citation(statute_code: str) -> Optional[VerifiedStatute]:
     """Validates if a cited statute is within the verified Indian legal registry."""
     return STATUTE_REGISTRY.get(statute_code)
+

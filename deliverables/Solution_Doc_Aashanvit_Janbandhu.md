@@ -103,3 +103,4 @@ The prototype was evaluated against 6 unedited, diverse real-world Indian cases 
 | **Unedited Raw Outputs** | `raw_outputs/` directory | Contains 13 unedited JSON data contracts and generated notice outputs across all 6 test cases. |
 | **Batch Test Suite** | `test_runner.py` | One-click script to execute all test cases and regenerate all raw outputs deterministically. |
 | **Solution Document** | `deliverables/Solution_Doc_Aashanvit_Janbandhu.pdf` | 2-page strict compliance document formatted according to assignment guidelines. |
+

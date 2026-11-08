@@ -193,3 +193,4 @@ The solution has been rigorously tested against 6 diverse scenarios reflecting t
 For recording the recommended 3-minute video:
 - See the complete time-stamped script in [`WALKTHROUGH_SCRIPT.md`](file:///d:/Aashu%20Projects%20%26%20Hackathons/kuku_assignment_round/WALKTHROUGH_SCRIPT.md).
 - Follow the sequence: (1) Problem Framing (0:00–0:30) -> (2) Hinglish Intake & Case Builder (0:30–1:15) -> (3) Anti-Hallucination & Notice PDF (1:15–1:55) -> (4) Opponent Simulator & Safety Guardrail (1:55–2:30) -> (5) Scalability & Closing (2:30–3:00).
+

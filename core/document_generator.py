@@ -209,3 +209,4 @@ def export_legal_notice_pdf(notice: LegalNoticeDraft, output_path: str) -> str:
     
     doc.build(story)
     return output_path
+
