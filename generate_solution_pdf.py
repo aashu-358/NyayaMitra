@@ -155,6 +155,10 @@ def build_solution_pdf(output_path: str):
         [
             Paragraph("<b>Branch:</b> B.Tech Data Science & AI, IIT Roorkee", meta_style),
             Paragraph("<b>Problem:</b> Problem 2: Build an AI Lawyer", meta_style)
+        ],
+        [
+            Paragraph('<b>GitHub Repository:</b> <a href="https://github.com/aashu-358/NyayaMitra" color="#1D4ED8"><u>https://github.com/aashu-358/NyayaMitra</u></a>', meta_style),
+            Paragraph("<b>Live Prototype:</b> Streamlit Web UI + Google Colab", meta_style)
         ]
     ]
     meta_table = Table(meta_content, colWidths=[310, 230])
@@ -306,9 +310,9 @@ def build_solution_pdf(output_path: str):
             Paragraph("<b>Verification Instructions</b>", table_cell_bold)
         ],
         [
-            Paragraph("Interactive Prototype", table_cell_bold),
-            Paragraph("Local Streamlit App / GitHub", table_cell),
-            Paragraph("Run: <code>uv run streamlit run app.py</code>. Supports interactive case builder, notice drafter, and opponent practice simulator.", table_cell)
+            Paragraph("Interactive Prototype & Code", table_cell_bold),
+            Paragraph('<a href="https://github.com/aashu-358/NyayaMitra" color="#1D4ED8"><u>github.com/aashu-358/NyayaMitra</u></a>', table_cell),
+            Paragraph("Complete GitHub repo with Streamlit Web App (<code>app.py</code>) and 1-Click Google Colab Notebook (<code>NyayaMitra_Demo_Colab.ipynb</code>).", table_cell)
         ],
         [
             Paragraph("Unedited Raw Outputs", table_cell_bold),

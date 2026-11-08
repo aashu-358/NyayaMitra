@@ -16,8 +16,8 @@
    - *Strictly 2 pages, formatted according to the 5 evaluation lenses.*
 
 2. **Prototype Link:**
-   - **GitHub Repository:** `<Your GitHub Repo URL after pushing>` (e.g., `https://github.com/aashanvit/nyayamitra-ai-lawyer`)
-   - **Google Colab Notebook (Instant 1-Click Run):** `NyayaMitra_Demo_Colab.ipynb`
+   - **GitHub Repository:** `https://github.com/aashu-358/NyayaMitra`
+   - **Google Colab Notebook (Instant 1-Click Run):** `NyayaMitra_Demo_Colab.ipynb` (available in repo)
    - **Run Command for Evaluators:** `uv run streamlit run app.py`
 
 3. **Raw Outputs Folder Link:**

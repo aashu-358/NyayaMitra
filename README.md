@@ -10,9 +10,10 @@
 - **Branch:** B.Tech Data Science and Artificial Intelligence  
 - **College:** Indian Institute of Technology Roorkee (IIT Roorkee)  
 - **Problem Chosen:** **Problem 2: Build an AI Lawyer**  
+- **GitHub Repository:** [https://github.com/aashu-358/NyayaMitra](https://github.com/aashu-358/NyayaMitra)  
 - **Deliverables Included:**
   1. **Solution Document (Strict 2-Page PDF):** [`deliverables/Solution_Doc_Aashanvit_Janbandhu.pdf`](file:///d:/Aashu%20Projects%20%26%20Hackathons/kuku_assignment_round/deliverables/Solution_Doc_Aashanvit_Janbandhu.pdf)
-  2. **Interactive Prototype:** Streamlit Web Application (`app.py`)
+  2. **Interactive Prototype:** Streamlit Web Application (`app.py`) + 1-Click Google Colab (`NyayaMitra_Demo_Colab.ipynb`)
   3. **Unedited Raw Outputs:** [`raw_outputs/`](file:///d:/Aashu%20Projects%20%26%20Hackathons/kuku_assignment_round/raw_outputs/) (13 JSON data contracts & generated notices across 6 test cases)
   4. **Batch Test Suite:** `test_runner.py` (One-click execution & verification)
   5. **Walkthrough Video Script:** [`WALKTHROUGH_SCRIPT.md`](file:///d:/Aashu%20Projects%20%26%20Hackathons/kuku_assignment_round/WALKTHROUGH_SCRIPT.md)
@@ -82,8 +83,8 @@ The repository is built to run out-of-the-box with **zero mandatory API keys** v
 ### 2. Setup Virtual Environment
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd kuku_assignment_round
+git clone https://github.com/aashu-358/NyayaMitra.git
+cd NyayaMitra
 
 # Create virtual environment and install dependencies
 uv venv .venv

@@ -10,9 +10,10 @@
 - **Branch:** B.Tech Data Science and Artificial Intelligence
 - **College:** Indian Institute of Technology Roorkee (IIT Roorkee)
 - **Problem Chosen:** Problem 2: Build an AI Lawyer
+- **GitHub Repository:** [https://github.com/aashu-358/NyayaMitra](https://github.com/aashu-358/NyayaMitra)
 - **Deliverables:**
   1. **Solution Document (PDF, 2 Pages):** `deliverables/Solution_Doc_Aashanvit_Janbandhu.pdf`
-  2. **Interactive Prototype:** Streamlit Web Application (`app.py`)
+  2. **Interactive Prototype:** Streamlit Web Application (`app.py`) + Google Colab (`NyayaMitra_Demo_Colab.ipynb`)
   3. **Unedited Raw Outputs:** `raw_outputs/` (13 JSON data contracts & generated notices)
   4. **Automated Test Suite:** `test_runner.py`
 
@@ -99,7 +100,7 @@ The prototype was evaluated against 6 unedited, diverse real-world Indian cases 
 
 | Deliverable | Location / Access | Verification Instructions |
 | :--- | :--- | :--- |
-| **Interactive Prototype** | Local Streamlit App / GitHub | Run: `uv run streamlit run app.py`. Supports interactive case builder, notice drafter, and opponent practice simulator. |
+| **Interactive Prototype & Code** | [github.com/aashu-358/NyayaMitra](https://github.com/aashu-358/NyayaMitra) | Full GitHub repository with Streamlit web app (`app.py`) and 1-click Google Colab notebook (`NyayaMitra_Demo_Colab.ipynb`). |
 | **Unedited Raw Outputs** | `raw_outputs/` directory | Contains 13 unedited JSON data contracts and generated notice outputs across all 6 test cases. |
 | **Batch Test Suite** | `test_runner.py` | One-click script to execute all test cases and regenerate all raw outputs deterministically. |
 | **Solution Document** | `deliverables/Solution_Doc_Aashanvit_Janbandhu.pdf` | 2-page strict compliance document formatted according to assignment guidelines. |
