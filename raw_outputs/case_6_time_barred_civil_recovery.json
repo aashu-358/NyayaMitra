@@ -1,0 +1,76 @@
+{
+  "test_case_id": "case_6_time_barred_civil_recovery",
+  "title": "Limitation Guardrail: Old 2020 Friendly Loan Barred by Limitation Act",
+  "input_narrative": "I lent Rs 20,000 to my acquaintance Rajesh in January 2020 via Google Pay. He promised to repay within 2 months but never did. Now in 2026 I want to file a consumer court case or send a notice to recover this money.",
+  "extracted_case": {
+    "case_title": "General Civil Contract - Claim of ₹20,000",
+    "category": "general_civil_contract",
+    "complainant": {
+      "name": "Vikram Adve",
+      "role": "Complainant",
+      "contact": "",
+      "address": ""
+    },
+    "opposite_party": {
+      "name": "Rajesh Kumar",
+      "role": "Opposite Party",
+      "contact": "",
+      "address": ""
+    },
+    "disputed_amount": "₹20,000",
+    "key_facts": [
+      "I lent Rs 20,000 to my acquaintance Rajesh in January 2020 via Google Pay",
+      "He promised to repay within 2 months but never did",
+      "Now in 2026 I want to file a consumer court case or send a notice to recover this money"
+    ],
+    "timeline": [
+      {
+        "approx_date": "Recent past",
+        "event": "Execution of contract / transaction and subsequent default by Opposite Party",
+        "evidence_available": "Bank statement / receipt"
+      }
+    ],
+    "evidence_held": [],
+    "evidence_gaps": [
+      "Export complete WhatsApp / SMS conversation history as unedited text/PDF",
+      "Bank statement showing debit/credit entries with UTR numbers",
+      "Copy of rental agreement, purchase invoice, or employment appointment letter"
+    ],
+    "jurisdiction_city": "City of Cause of Action",
+    "is_time_barred_risk": true,
+    "urgency_level": "HIGH"
+  },
+  "legal_assessment": {
+    "summary_verdict": "Your claim involves civil breach of contractual promises and wrongful withholding of funds.",
+    "standing_strength": "MODERATE",
+    "applicable_statutes": [
+      {
+        "act_name": "Indian Contract Act, 1872",
+        "section": "Section 73",
+        "official_title": "Compensation for Loss or Damage Caused by Breach of Contract",
+        "plain_meaning": "When a contract is broken, the party who suffers is entitled to receive compensation for any loss or damage naturally arising from the breach.",
+        "maximum_penalty_or_relief": "Full recovery of dues plus consequential damages and interest."
+      },
+      {
+        "act_name": "Limitation Act, 1963",
+        "section": "Article 113 / General Schedule",
+        "official_title": "Statutory Period of Limitation for Recovery",
+        "plain_meaning": "General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).",
+        "maximum_penalty_or_relief": "Bar on judicial remedy if suit is not filed within the limitation period."
+      }
+    ],
+    "action_roadmap": [
+      "Step 1: Issue a 15-day Pre-Litigation Legal Demand Notice.",
+      "Step 2: Initiate pre-institution mediation at the District Legal Services Authority (DLSA).",
+      "Step 3: File a civil recovery suit in the competent jurisdictional court."
+    ],
+    "realistic_outcome": "Statutory notice demonstrates bona fide attempt at dispute resolution before litigation.",
+    "risks_and_caveats": [
+      "Ensure claim is within the 3-year statutory limitation period."
+    ],
+    "needs_human_lawyer": false,
+    "legal_aid_option": "Citizens with annual income below statutory limits (or women) are entitled to free state advocates via DLSA / NALSA."
+  },
+  "has_notice_generated": true,
+  "timestamp": "2026-11-08T21:44:33.023137"
+}

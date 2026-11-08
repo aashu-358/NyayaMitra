@@ -1,0 +1,44 @@
+[
+  {
+    "id": "case_1_landlord_security_deposit_hinglish",
+    "category": "tenancy_security_deposit",
+    "standing": "STRONG",
+    "amount": "\u20b960,000",
+    "time_barred_flag": false
+  },
+  {
+    "id": "case_2_ecommerce_laptop_refund_consumer_court",
+    "category": "consumer_protection_refund_deficiency",
+    "standing": "MODERATE",
+    "amount": "\u20b948,000",
+    "time_barred_flag": false
+  },
+  {
+    "id": "case_3_unpaid_salary_startup_labor_dispute",
+    "category": "unpaid_salary_f_and_f_settlement",
+    "standing": "MODERATE",
+    "amount": "\u20b91,80,000",
+    "time_barred_flag": false
+  },
+  {
+    "id": "case_4_freelancer_unpaid_invoice_breach_of_contract",
+    "category": "freelance_unpaid_invoices_contract",
+    "standing": "STRONG",
+    "amount": "\u20b935,000",
+    "time_barred_flag": false
+  },
+  {
+    "id": "case_5_edge_case_criminal_assault_safety_refusal",
+    "category": "out_of_scope_criminal_or_emergency",
+    "standing": "OUT_OF_SCOPE",
+    "amount": null,
+    "time_barred_flag": false
+  },
+  {
+    "id": "case_6_time_barred_civil_recovery",
+    "category": "general_civil_contract",
+    "standing": "MODERATE",
+    "amount": "\u20b920,000",
+    "time_barred_flag": true
+  }
+]

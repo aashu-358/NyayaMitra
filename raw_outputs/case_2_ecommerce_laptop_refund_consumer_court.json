@@ -1,0 +1,102 @@
+{
+  "test_case_id": "case_2_ecommerce_laptop_refund_consumer_court",
+  "title": "Consumer: Flipkart Refusing Refund on Shattered Screen Laptop (₹48,000)",
+  "input_narrative": "On 12 October 2024, I purchased an Asus Vivobook laptop worth Rs 48,000 from Flipkart under Order OD328919102. When delivered on 15 October, the package was unsealed and the laptop display screen was completely shattered. I immediately raised a return request within 2 hours of delivery and uploaded unboxing photos. On 18 October, Flipkart rejected my return saying 'item damaged after delivery' and refused refund or replacement. Customer support is giving automated replies.",
+  "extracted_case": {
+    "case_title": "Consumer Protection Refund Deficiency - Claim of ₹48,000",
+    "category": "consumer_protection_refund_deficiency",
+    "complainant": {
+      "name": "Priya Sharma",
+      "role": "Complainant",
+      "contact": "",
+      "address": ""
+    },
+    "opposite_party": {
+      "name": "Flipkart Internet Pvt Ltd & RetailNet",
+      "role": "Opposite Party",
+      "contact": "",
+      "address": ""
+    },
+    "disputed_amount": "₹48,000",
+    "key_facts": [
+      "On 12 October 2024, I purchased an Asus Vivobook laptop worth Rs 48,000 from Flipkart under Order OD328919102",
+      "When delivered on 15 October, the package was unsealed and the laptop display screen was completely shattered",
+      "I immediately raised a return request within 2 hours of delivery and uploaded unboxing photos",
+      "On 18 October, Flipkart rejected my return saying 'item damaged after delivery' and refused refund or replacement",
+      "Customer support is giving automated replies"
+    ],
+    "timeline": [
+      {
+        "approx_date": "12 October 2024",
+        "event": "Documented milestone / communication: On 12 October 2024, I purchased an Asus Vivobook laptop worth Rs 48,000 from Flipkart under Order OD328919102",
+        "evidence_available": "Digital record / chat / transaction slip"
+      },
+      {
+        "approx_date": "15 October",
+        "event": "Documented milestone / communication: When delivered on 15 October, the package was unsealed and the laptop display screen was completely shattered",
+        "evidence_available": "Digital record / chat / transaction slip"
+      },
+      {
+        "approx_date": "18 October",
+        "event": "Documented milestone / communication: I immediately raised a return request within 2 hours of delivery and uploaded unboxing photos",
+        "evidence_available": "Digital record / chat / transaction slip"
+      }
+    ],
+    "evidence_held": [],
+    "evidence_gaps": [
+      "Export complete WhatsApp / SMS conversation history as unedited text/PDF",
+      "Bank statement showing debit/credit entries with UTR numbers",
+      "Copy of rental agreement, purchase invoice, or employment appointment letter"
+    ],
+    "jurisdiction_city": "City of Cause of Action",
+    "is_time_barred_risk": false,
+    "urgency_level": "NORMAL"
+  },
+  "legal_assessment": {
+    "summary_verdict": "Refusal to refund or replace defective merchandise constitutes 'Deficiency of Service' under Section 2(11) and an 'Unfair Trade Practice' under Section 2(47) of the Consumer Protection Act, 2019.",
+    "standing_strength": "MODERATE",
+    "applicable_statutes": [
+      {
+        "act_name": "Consumer Protection Act, 2019",
+        "section": "Section 2(11)",
+        "official_title": "Deficiency of Service",
+        "plain_meaning": "Any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance required by law or contract.",
+        "maximum_penalty_or_relief": "Refund of amount paid, compensation for harassment/mental agony, and litigation costs."
+      },
+      {
+        "act_name": "Consumer Protection Act, 2019",
+        "section": "Section 2(47)",
+        "official_title": "Unfair Trade Practice",
+        "plain_meaning": "Deceptive practices including refusing refunds for defective goods, false guarantees, or charging above agreed price.",
+        "maximum_penalty_or_relief": "Direction to discontinue unfair trade practice, issue full refund, and pay punitive damages."
+      },
+      {
+        "act_name": "Consumer Protection Act, 2019",
+        "section": "Section 35",
+        "official_title": "Filing of Complaint before District Commission (e-Daakhil)",
+        "plain_meaning": "Any consumer can file a complaint directly online via e-Daakhil for claims up to ₹50 Lakhs without needing to hire an advocate.",
+        "maximum_penalty_or_relief": "Direct court order for full refund with interest and punitive compensation."
+      },
+      {
+        "act_name": "Limitation Act, 1963",
+        "section": "Article 113 / General Schedule",
+        "official_title": "Statutory Period of Limitation for Recovery",
+        "plain_meaning": "General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).",
+        "maximum_penalty_or_relief": "Bar on judicial remedy if suit is not filed within the limitation period."
+      }
+    ],
+    "action_roadmap": [
+      "Step 1: Send the drafted pre-litigation Legal Demand Notice to the e-commerce platform's Grievance Officer and seller.",
+      "Step 2: Register a grievance on the National Consumer Helpline portal (consumerhelpline.gov.in / dial 1915) citing the notice.",
+      "Step 3: If unresolved within 15 days, file a formal complaint online via e-Daakhil (edaakhil.nic.in) before the District Consumer Commission without hiring an advocate."
+    ],
+    "realistic_outcome": "E-commerce platforms typically initiate refund/replacement within 7-10 days of receiving a formal legal notice with NCH/e-Daakhil filing threat.",
+    "risks_and_caveats": [
+      "Ensure you possess unboxing video, courier delivery receipt, and product serial number photos."
+    ],
+    "needs_human_lawyer": false,
+    "legal_aid_option": "Citizens with annual income below statutory limits (or women) are entitled to free state advocates via DLSA / NALSA."
+  },
+  "has_notice_generated": true,
+  "timestamp": "2026-11-08T21:44:33.018391"
+}

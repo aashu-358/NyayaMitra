@@ -1,0 +1,93 @@
+{
+  "test_case_id": "case_1_landlord_security_deposit_hinglish",
+  "title": "Tenancy: Bangalore Landlord Withholding ₹60,000 Security Deposit",
+  "input_narrative": "Bhai maine 31st August 2024 ko Bangalore Koramangala ka flat vacate kiya tha with 1 month prior notice as per rent agreement. Total security deposit 60,000 Rs tha. Ab landlord Suresh bolta hai ki flat paint karwaya aur cleaning karwayi toh pura 60,000 kat gaya. But maine flat bilkul clean condition me hand over kiya tha aur video bhi banaya tha. Agreement me clearly likha tha ki painting charges flat owner pay karega if tenant stays for more than 11 months. Landlord WhatsApp pe call cut kar raha hai aur bolta hai jo karna hai kar lo court jaao.",
+  "extracted_case": {
+    "case_title": "Tenancy Security Deposit - Claim of ₹60,000",
+    "category": "tenancy_security_deposit",
+    "complainant": {
+      "name": "Rohan Verma",
+      "role": "Complainant",
+      "contact": "",
+      "address": ""
+    },
+    "opposite_party": {
+      "name": "Suresh Murthy (Property Owner)",
+      "role": "Opposite Party",
+      "contact": "",
+      "address": ""
+    },
+    "disputed_amount": "₹60,000",
+    "key_facts": [
+      "Bhai maine 31st August 2024 ko Bangalore Koramangala ka flat vacate kiya tha with 1 month prior notice as per rent agreement",
+      "Total security deposit 60,000 Rs tha",
+      "Ab landlord Suresh bolta hai ki flat paint karwaya aur cleaning karwayi toh pura 60,000 kat gaya",
+      "But maine flat bilkul clean condition me hand over kiya tha aur video bhi banaya tha",
+      "Agreement me clearly likha tha ki painting charges flat owner pay karega if tenant stays for more than 11 months"
+    ],
+    "timeline": [
+      {
+        "approx_date": "31st August 2024",
+        "event": "Documented milestone / communication: Bhai maine 31st August 2024 ko Bangalore Koramangala ka flat vacate kiya tha with 1 month prior notice as per rent agreement",
+        "evidence_available": "Digital record / chat / transaction slip"
+      }
+    ],
+    "evidence_held": [
+      "WhatsApp / Chat records showing acknowledgment",
+      "Signed Agreement / Terms of Service copy"
+    ],
+    "evidence_gaps": [
+      "Bank statement showing debit/credit entries with UTR numbers"
+    ],
+    "jurisdiction_city": "City of Cause of Action",
+    "is_time_barred_risk": false,
+    "urgency_level": "NORMAL"
+  },
+  "legal_assessment": {
+    "summary_verdict": "Under Indian tenancy jurisprudence, a landlord cannot unilaterally deduct arbitrary amounts from your security deposit without producing verified repair receipts. Your claim for ₹60,000 is legally enforceable.",
+    "standing_strength": "STRONG",
+    "applicable_statutes": [
+      {
+        "act_name": "Transfer of Property Act, 1882",
+        "section": "Section 108(m) & (q)",
+        "official_title": "Rights and Liabilities of Lessor and Lessee",
+        "plain_meaning": "Tenant must restore premises in reasonable condition (subject to normal wear and tear); landlord must return the security deposit after deducting only mutually agreed damages.",
+        "maximum_penalty_or_relief": "Recovery of full security deposit with commercial interest (typically 6-18% p.a.)."
+      },
+      {
+        "act_name": "Model Tenancy Act, 2021 (and State Tenancy Rules)",
+        "section": "Section 13",
+        "official_title": "Security Deposit Cap and Refund Timeline",
+        "plain_meaning": "Security deposit for residential premises is capped at maximum 2 months' rent and must be returned within 30 days of vacating after agreed deductions.",
+        "maximum_penalty_or_relief": "Landlord liable for compound interest and penalties before Rent Authority."
+      },
+      {
+        "act_name": "Indian Contract Act, 1872",
+        "section": "Section 73",
+        "official_title": "Compensation for Loss or Damage Caused by Breach of Contract",
+        "plain_meaning": "When a contract is broken, the party who suffers is entitled to receive compensation for any loss or damage naturally arising from the breach.",
+        "maximum_penalty_or_relief": "Full recovery of dues plus consequential damages and interest."
+      },
+      {
+        "act_name": "Limitation Act, 1963",
+        "section": "Article 113 / General Schedule",
+        "official_title": "Statutory Period of Limitation for Recovery",
+        "plain_meaning": "General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).",
+        "maximum_penalty_or_relief": "Bar on judicial remedy if suit is not filed within the limitation period."
+      }
+    ],
+    "action_roadmap": [
+      "Step 1: Dispatch a Formal Statutory Demand Notice granting 15 days to refund the withheld deposit with 18% p.a. interest.",
+      "Step 2: If ignored, submit a summary petition before the local Rent Authority / Sub-Divisional Magistrate (SDM) or file a small-claims civil recovery suit under Order 37 CPC.",
+      "Step 3: File an online grievance before the National Consumer Helpline (NCH - 1915) if rented through commercial co-living or broker platforms."
+    ],
+    "realistic_outcome": "Over 70% of landlords settle or refund the deposit upon receiving a formal legal notice referencing statutory interest and Rent Authority escalation.",
+    "risks_and_caveats": [
+      "Landlord may claim wear-and-tear damages; counter this by demanding stamped tax invoices and date-stamped entry/exit photos."
+    ],
+    "needs_human_lawyer": false,
+    "legal_aid_option": "Citizens with annual income below statutory limits (or women) are entitled to free state advocates via DLSA / NALSA."
+  },
+  "has_notice_generated": true,
+  "timestamp": "2026-11-08T21:44:33.015972"
+}

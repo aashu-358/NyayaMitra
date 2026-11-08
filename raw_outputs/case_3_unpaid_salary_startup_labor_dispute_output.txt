@@ -1,0 +1,58 @@
+=== NYAYAMITRA RAW OUTPUT FOR CASE_3_UNPAID_SALARY_STARTUP_LABOR_DISPUTE ===
+CATEGORY: unpaid_salary_f_and_f_settlement
+STANDING: MODERATE
+SUMMARY: Withholding earned salary, full & final (F&F) settlement, or withholding relieving letters is prohibited under the Payment of Wages Act and Indian Contract Act. Non-compete clauses post-termination are void under Section 27.
+
+=== STATUTORY ACTION ROADMAP ===
+Step 1: Serve a Formal Demand Notice to the Board of Directors and HR Head giving 15 days to release dues and relieving documentation.
+Step 2: Lodge a formal complaint before the Office of the Labour Commissioner / Labour Conciliation Officer in your jurisdiction.
+Step 3: For managerial roles not covered under Labour Act, file a summary suit for debt recovery under Order 37 CPC.
+
+=== DRAFT NOTICE / LEGAL ESCALATION ===
+UNDER INSTRUCTIONS FROM MY CLIENT / ISSUED ON BEHALF OF:
+Amitabh Sengupta, residing at Address on Record (hereinafter referred to as 'My Client / Undersigned').
+
+TO:
+Nexora Tech Solutions Pvt Ltd, having address/office at Address on Record (hereinafter referred to as 'You / Addressee').
+
+SUBJECT: LEGAL NOTICE DEMANDING IMMEDIATE REFUND / PAYMENT OF ₹1,80,000 WITH ACCRUED INTEREST
+
+Sir/Madam,
+
+Under instructions and on behalf of the Undersigned, this Legal Notice is hereby served upon you for immediate compliance:
+
+1. STATEMENT OF FACTS & CHRONOLOGY:
+1. I resigned from Nexora Tech on 1st July 2024 after serving my full 60 days contractual notice period till 31st August 2024
+
+2. My pending salary for August plus 45 days leave encashment totaling Rs 1,80,000 was promised within 45 days of exit in the acceptance email
+
+3. It has been over 3 months now
+
+4. When I follow up, HR says company has cash flow issues
+
+5. Furthermore, they are refusing to issue my Relieving Letter and Experience Certificate, saying I must sign a 1-year non-compete waiver
+
+2. STATUTORY VIOLATIONS & LEGAL GROUNDS:
+Your aforesaid act of arbitrarily and unilaterally withholding the legitimate dues of the Undersigned is illegal, fraudulent, and amounts to actionable default under the laws of India, including:
+• Violation of Payment of Wages Act, 1936 [Section 15 - Claims Arising out of Deductions from Wages or Delay in Payment]: Employers cannot withhold earned wages without explicit statutory authorization. Applies to employees earning up to statutory wage limits.
+• Violation of Industrial Disputes Act, 1947 [Section 25F - Conditions Precedent to Retrenchment]: Requires 1 month notice or wages in lieu thereof, plus retrenchment compensation of 15 days average pay for each completed year of service.
+• Violation of Indian Contract Act, 1872 [Section 27 - Agreement in Restraint of Trade Void]: Any clause restraining an employee from exercising a lawful profession, trade or business is legally void. Employers cannot withhold relieving letters or salaries based on illegal non-competes.
+• Violation of Indian Contract Act, 1872 [Section 73 - Compensation for Loss or Damage Caused by Breach of Contract]: When a contract is broken, the party who suffers is entitled to receive compensation for any loss or damage naturally arising from the breach.
+• Violation of Limitation Act, 1963 [Article 113 / General Schedule - Statutory Period of Limitation for Recovery]: General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).
+
+3. PEREMPTORY DEMAND:
+You are hereby called upon to pay and remit the entire legitimate claim of ₹1,80,000 along with interest @ 18% per annum within a period of 15 (FIFTEEN) DAYS from the date of receipt of this notice, into the bank account details provided hereunder or via demand draft.
+
+4. CONSEQUENCES OF NON-COMPLIANCE:
+Please take note that if you fail, neglect, or refuse to comply with the above demands within the stipulated 15-day cure period, the Undersigned shall be constrained to initiate appropriate civil proceedings, including filing a statutory complaint before the competent Consumer Disputes Redressal Commission (via e-Daakhil) / competent Court of Small Causes / Rent Authority, entirely at your risk, cost, and consequence. 
+
+In such event, you shall be held liable not only for the principal claim and enhanced interest, but also for comprehensive damages for mental agony, harassment, and all legal costs incurred.
+
+A copy of this Legal Notice is retained on record for production before the Court as documentary proof of pre-litigation demand.
+
+Yours sincerely,
+
+___________________________
+Amitabh Sengupta
+(Aggrieved Party / Complainant)
+Contact: Contact on Record

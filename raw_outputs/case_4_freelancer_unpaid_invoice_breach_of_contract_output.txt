@@ -1,0 +1,56 @@
+=== NYAYAMITRA RAW OUTPUT FOR CASE_4_FREELANCER_UNPAID_INVOICE_BREACH_OF_CONTRACT ===
+CATEGORY: freelance_unpaid_invoices_contract
+STANDING: STRONG
+SUMMARY: Failure to clear invoices for completed work constitutes breach of contract under Section 73 of the Indian Contract Act. If registered under MSME, you are entitled to 3x RBI bank rate compound interest.
+
+=== STATUTORY ACTION ROADMAP ===
+Step 1: Issue the Formal Statutory Demand Notice demanding invoice clearance plus commercial interest within 15 days.
+Step 2: If registered as MSME/Udyam, file an instant online recovery petition on the MSME Samadhaan portal (samadhaan.msme.gov.in).
+Step 3: Initiate commercial summary suit or conciliation before the Micro and Small Enterprise Facilitation Council (MSEFC).
+
+=== DRAFT NOTICE / LEGAL ESCALATION ===
+UNDER INSTRUCTIONS FROM MY CLIENT / ISSUED ON BEHALF OF:
+Neha Joshi, residing at Address on Record (hereinafter referred to as 'My Client / Undersigned').
+
+TO:
+BrandVibe Marketing LLP, having address/office at Address on Record (hereinafter referred to as 'You / Addressee').
+
+SUBJECT: LEGAL NOTICE DEMANDING IMMEDIATE REFUND / PAYMENT OF ₹35,000 WITH ACCRUED INTEREST
+
+Sir/Madam,
+
+Under instructions and on behalf of the Undersigned, this Legal Notice is hereby served upon you for immediate compliance:
+
+1. STATEMENT OF FACTS & CHRONOLOGY:
+1. I completed a freelance UI/UX redesign project for BrandVibe Marketing on 5 September 2024
+
+2. All Figma assets and design system were approved via email on 10 September
+
+3. I raised Invoice #BV-042 for Rs 35,000 payable within 15 days
+
+4. They have used my designs in their live production web app, but have not paid the invoice
+
+5. Now the founder is ignoring emails and blocked me on LinkedIn
+
+2. STATUTORY VIOLATIONS & LEGAL GROUNDS:
+Your aforesaid act of arbitrarily and unilaterally withholding the legitimate dues of the Undersigned is illegal, fraudulent, and amounts to actionable default under the laws of India, including:
+• Violation of Indian Contract Act, 1872 [Section 73 - Compensation for Loss or Damage Caused by Breach of Contract]: When a contract is broken, the party who suffers is entitled to receive compensation for any loss or damage naturally arising from the breach.
+• Violation of Micro, Small and Medium Enterprises Development Act, 2006 [Sections 15 & 16 - Mandatory Payment Period and Compound Interest for Delay]: Buyer must make payment within 45 days. Delayed payment attracts compound interest with monthly rests at 3 times the Bank Rate notified by RBI.
+• Violation of Limitation Act, 1963 [Article 113 / General Schedule - Statutory Period of Limitation for Recovery]: General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).
+
+3. PEREMPTORY DEMAND:
+You are hereby called upon to pay and remit the entire legitimate claim of ₹35,000 along with interest @ 18% per annum within a period of 15 (FIFTEEN) DAYS from the date of receipt of this notice, into the bank account details provided hereunder or via demand draft.
+
+4. CONSEQUENCES OF NON-COMPLIANCE:
+Please take note that if you fail, neglect, or refuse to comply with the above demands within the stipulated 15-day cure period, the Undersigned shall be constrained to initiate appropriate civil proceedings, including filing a statutory complaint before the competent Consumer Disputes Redressal Commission (via e-Daakhil) / competent Court of Small Causes / Rent Authority, entirely at your risk, cost, and consequence. 
+
+In such event, you shall be held liable not only for the principal claim and enhanced interest, but also for comprehensive damages for mental agony, harassment, and all legal costs incurred.
+
+A copy of this Legal Notice is retained on record for production before the Court as documentary proof of pre-litigation demand.
+
+Yours sincerely,
+
+___________________________
+Neha Joshi
+(Aggrieved Party / Complainant)
+Contact: Contact on Record

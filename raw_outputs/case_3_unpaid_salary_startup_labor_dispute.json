@@ -1,0 +1,105 @@
+{
+  "test_case_id": "case_3_unpaid_salary_startup_labor_dispute",
+  "title": "Employment: Startup Withholding ₹1,80,000 F&F and Relieving Letter",
+  "input_narrative": "I resigned from Nexora Tech on 1st July 2024 after serving my full 60 days contractual notice period till 31st August 2024. My pending salary for August plus 45 days leave encashment totaling Rs 1,80,000 was promised within 45 days of exit in the acceptance email. It has been over 3 months now. When I follow up, HR says company has cash flow issues. Furthermore, they are refusing to issue my Relieving Letter and Experience Certificate, saying I must sign a 1-year non-compete waiver.",
+  "extracted_case": {
+    "case_title": "Unpaid Salary F And F Settlement - Claim of ₹1,80,000",
+    "category": "unpaid_salary_f_and_f_settlement",
+    "complainant": {
+      "name": "Amitabh Sengupta",
+      "role": "Complainant",
+      "contact": "",
+      "address": ""
+    },
+    "opposite_party": {
+      "name": "Nexora Tech Solutions Pvt Ltd",
+      "role": "Opposite Party",
+      "contact": "",
+      "address": ""
+    },
+    "disputed_amount": "₹1,80,000",
+    "key_facts": [
+      "I resigned from Nexora Tech on 1st July 2024 after serving my full 60 days contractual notice period till 31st August 2024",
+      "My pending salary for August plus 45 days leave encashment totaling Rs 1,80,000 was promised within 45 days of exit in the acceptance email",
+      "It has been over 3 months now",
+      "When I follow up, HR says company has cash flow issues",
+      "Furthermore, they are refusing to issue my Relieving Letter and Experience Certificate, saying I must sign a 1-year non-compete waiver"
+    ],
+    "timeline": [
+      {
+        "approx_date": "1st July 2024",
+        "event": "Documented milestone / communication: I resigned from Nexora Tech on 1st July 2024 after serving my full 60 days contractual notice period till 31st August 2024",
+        "evidence_available": "Digital record / chat / transaction slip"
+      },
+      {
+        "approx_date": "31st August 2024",
+        "event": "Documented milestone / communication: My pending salary for August plus 45 days leave encashment totaling Rs 1,80,000 was promised within 45 days of exit in the acceptance email",
+        "evidence_available": "Digital record / chat / transaction slip"
+      }
+    ],
+    "evidence_held": [
+      "Signed Agreement / Terms of Service copy"
+    ],
+    "evidence_gaps": [
+      "Export complete WhatsApp / SMS conversation history as unedited text/PDF",
+      "Bank statement showing debit/credit entries with UTR numbers"
+    ],
+    "jurisdiction_city": "City of Cause of Action",
+    "is_time_barred_risk": false,
+    "urgency_level": "NORMAL"
+  },
+  "legal_assessment": {
+    "summary_verdict": "Withholding earned salary, full & final (F&F) settlement, or withholding relieving letters is prohibited under the Payment of Wages Act and Indian Contract Act. Non-compete clauses post-termination are void under Section 27.",
+    "standing_strength": "MODERATE",
+    "applicable_statutes": [
+      {
+        "act_name": "Payment of Wages Act, 1936",
+        "section": "Section 15",
+        "official_title": "Claims Arising out of Deductions from Wages or Delay in Payment",
+        "plain_meaning": "Employers cannot withhold earned wages without explicit statutory authorization. Applies to employees earning up to statutory wage limits.",
+        "maximum_penalty_or_relief": "Direction to pay withheld wages plus compensation up to 10 times the deducted amount."
+      },
+      {
+        "act_name": "Industrial Disputes Act, 1947",
+        "section": "Section 25F",
+        "official_title": "Conditions Precedent to Retrenchment",
+        "plain_meaning": "Requires 1 month notice or wages in lieu thereof, plus retrenchment compensation of 15 days average pay for each completed year of service.",
+        "maximum_penalty_or_relief": "Reinstatement with full back wages or statutory retrenchment package."
+      },
+      {
+        "act_name": "Indian Contract Act, 1872",
+        "section": "Section 27",
+        "official_title": "Agreement in Restraint of Trade Void",
+        "plain_meaning": "Any clause restraining an employee from exercising a lawful profession, trade or business is legally void. Employers cannot withhold relieving letters or salaries based on illegal non-competes.",
+        "maximum_penalty_or_relief": "Clause struck down as unenforceable; employer ordered to release pending dues."
+      },
+      {
+        "act_name": "Indian Contract Act, 1872",
+        "section": "Section 73",
+        "official_title": "Compensation for Loss or Damage Caused by Breach of Contract",
+        "plain_meaning": "When a contract is broken, the party who suffers is entitled to receive compensation for any loss or damage naturally arising from the breach.",
+        "maximum_penalty_or_relief": "Full recovery of dues plus consequential damages and interest."
+      },
+      {
+        "act_name": "Limitation Act, 1963",
+        "section": "Article 113 / General Schedule",
+        "official_title": "Statutory Period of Limitation for Recovery",
+        "plain_meaning": "General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).",
+        "maximum_penalty_or_relief": "Bar on judicial remedy if suit is not filed within the limitation period."
+      }
+    ],
+    "action_roadmap": [
+      "Step 1: Serve a Formal Demand Notice to the Board of Directors and HR Head giving 15 days to release dues and relieving documentation.",
+      "Step 2: Lodge a formal complaint before the Office of the Labour Commissioner / Labour Conciliation Officer in your jurisdiction.",
+      "Step 3: For managerial roles not covered under Labour Act, file a summary suit for debt recovery under Order 37 CPC."
+    ],
+    "realistic_outcome": "Companies almost always release F&F and certificates to avoid formal Labour Commissioner inspection and corporate compliance scrutiny.",
+    "risks_and_caveats": [
+      "Verify that your resignation complied with notice period terms or that buyout clauses were mutually agreed."
+    ],
+    "needs_human_lawyer": false,
+    "legal_aid_option": "Citizens with annual income below statutory limits (or women) are entitled to free state advocates via DLSA / NALSA."
+  },
+  "has_notice_generated": true,
+  "timestamp": "2026-11-08T21:44:33.019459"
+}

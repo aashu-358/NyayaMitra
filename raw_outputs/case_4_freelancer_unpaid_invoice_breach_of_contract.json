@@ -1,0 +1,92 @@
+{
+  "test_case_id": "case_4_freelancer_unpaid_invoice_breach_of_contract",
+  "title": "Freelance: Client Default on ₹35,000 Approved Design Deliverable",
+  "input_narrative": "I completed a freelance UI/UX redesign project for BrandVibe Marketing on 5 September 2024. All Figma assets and design system were approved via email on 10 September. I raised Invoice #BV-042 for Rs 35,000 payable within 15 days. They have used my designs in their live production web app, but have not paid the invoice. Now the founder is ignoring emails and blocked me on LinkedIn.",
+  "extracted_case": {
+    "case_title": "Freelance Unpaid Invoices Contract - Claim of ₹35,000",
+    "category": "freelance_unpaid_invoices_contract",
+    "complainant": {
+      "name": "Neha Joshi",
+      "role": "Complainant",
+      "contact": "",
+      "address": ""
+    },
+    "opposite_party": {
+      "name": "BrandVibe Marketing LLP",
+      "role": "Opposite Party",
+      "contact": "",
+      "address": ""
+    },
+    "disputed_amount": "₹35,000",
+    "key_facts": [
+      "I completed a freelance UI/UX redesign project for BrandVibe Marketing on 5 September 2024",
+      "All Figma assets and design system were approved via email on 10 September",
+      "I raised Invoice #BV-042 for Rs 35,000 payable within 15 days",
+      "They have used my designs in their live production web app, but have not paid the invoice",
+      "Now the founder is ignoring emails and blocked me on LinkedIn"
+    ],
+    "timeline": [
+      {
+        "approx_date": "5 September 2024",
+        "event": "Documented milestone / communication: I completed a freelance UI/UX redesign project for BrandVibe Marketing on 5 September 2024",
+        "evidence_available": "Digital record / chat / transaction slip"
+      },
+      {
+        "approx_date": "10 September",
+        "event": "Documented milestone / communication: All Figma assets and design system were approved via email on 10 September",
+        "evidence_available": "Digital record / chat / transaction slip"
+      }
+    ],
+    "evidence_held": [
+      "Bank account statement / UPI transaction reference (UTR)",
+      "Purchase Invoice / Payment Receipts"
+    ],
+    "evidence_gaps": [
+      "Export complete WhatsApp / SMS conversation history as unedited text/PDF",
+      "Copy of rental agreement, purchase invoice, or employment appointment letter"
+    ],
+    "jurisdiction_city": "City of Cause of Action",
+    "is_time_barred_risk": false,
+    "urgency_level": "NORMAL"
+  },
+  "legal_assessment": {
+    "summary_verdict": "Failure to clear invoices for completed work constitutes breach of contract under Section 73 of the Indian Contract Act. If registered under MSME, you are entitled to 3x RBI bank rate compound interest.",
+    "standing_strength": "STRONG",
+    "applicable_statutes": [
+      {
+        "act_name": "Indian Contract Act, 1872",
+        "section": "Section 73",
+        "official_title": "Compensation for Loss or Damage Caused by Breach of Contract",
+        "plain_meaning": "When a contract is broken, the party who suffers is entitled to receive compensation for any loss or damage naturally arising from the breach.",
+        "maximum_penalty_or_relief": "Full recovery of dues plus consequential damages and interest."
+      },
+      {
+        "act_name": "Micro, Small and Medium Enterprises Development Act, 2006",
+        "section": "Sections 15 & 16",
+        "official_title": "Mandatory Payment Period and Compound Interest for Delay",
+        "plain_meaning": "Buyer must make payment within 45 days. Delayed payment attracts compound interest with monthly rests at 3 times the Bank Rate notified by RBI.",
+        "maximum_penalty_or_relief": "Mandatory 3x RBI interest rate via MSME Samadhaan conciliation."
+      },
+      {
+        "act_name": "Limitation Act, 1963",
+        "section": "Article 113 / General Schedule",
+        "official_title": "Statutory Period of Limitation for Recovery",
+        "plain_meaning": "General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).",
+        "maximum_penalty_or_relief": "Bar on judicial remedy if suit is not filed within the limitation period."
+      }
+    ],
+    "action_roadmap": [
+      "Step 1: Issue the Formal Statutory Demand Notice demanding invoice clearance plus commercial interest within 15 days.",
+      "Step 2: If registered as MSME/Udyam, file an instant online recovery petition on the MSME Samadhaan portal (samadhaan.msme.gov.in).",
+      "Step 3: Initiate commercial summary suit or conciliation before the Micro and Small Enterprise Facilitation Council (MSEFC)."
+    ],
+    "realistic_outcome": "Clients generally clear genuine dues when threatened with statutory MSME compound interest penalties and blacklisting.",
+    "risks_and_caveats": [
+      "Ensure email proof of client sign-off on delivered milestones exists."
+    ],
+    "needs_human_lawyer": false,
+    "legal_aid_option": "Citizens with annual income below statutory limits (or women) are entitled to free state advocates via DLSA / NALSA."
+  },
+  "has_notice_generated": true,
+  "timestamp": "2026-11-08T21:44:33.020755"
+}

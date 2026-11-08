@@ -1,0 +1,57 @@
+=== NYAYAMITRA RAW OUTPUT FOR CASE_1_LANDLORD_SECURITY_DEPOSIT_HINGLISH ===
+CATEGORY: tenancy_security_deposit
+STANDING: STRONG
+SUMMARY: Under Indian tenancy jurisprudence, a landlord cannot unilaterally deduct arbitrary amounts from your security deposit without producing verified repair receipts. Your claim for ₹60,000 is legally enforceable.
+
+=== STATUTORY ACTION ROADMAP ===
+Step 1: Dispatch a Formal Statutory Demand Notice granting 15 days to refund the withheld deposit with 18% p.a. interest.
+Step 2: If ignored, submit a summary petition before the local Rent Authority / Sub-Divisional Magistrate (SDM) or file a small-claims civil recovery suit under Order 37 CPC.
+Step 3: File an online grievance before the National Consumer Helpline (NCH - 1915) if rented through commercial co-living or broker platforms.
+
+=== DRAFT NOTICE / LEGAL ESCALATION ===
+UNDER INSTRUCTIONS FROM MY CLIENT / ISSUED ON BEHALF OF:
+Rohan Verma, residing at Address on Record (hereinafter referred to as 'My Client / Undersigned').
+
+TO:
+Suresh Murthy (Property Owner), having address/office at Address on Record (hereinafter referred to as 'You / Addressee').
+
+SUBJECT: LEGAL NOTICE DEMANDING IMMEDIATE REFUND / PAYMENT OF ₹60,000 WITH ACCRUED INTEREST
+
+Sir/Madam,
+
+Under instructions and on behalf of the Undersigned, this Legal Notice is hereby served upon you for immediate compliance:
+
+1. STATEMENT OF FACTS & CHRONOLOGY:
+1. Bhai maine 31st August 2024 ko Bangalore Koramangala ka flat vacate kiya tha with 1 month prior notice as per rent agreement
+
+2. Total security deposit 60,000 Rs tha
+
+3. Ab landlord Suresh bolta hai ki flat paint karwaya aur cleaning karwayi toh pura 60,000 kat gaya
+
+4. But maine flat bilkul clean condition me hand over kiya tha aur video bhi banaya tha
+
+5. Agreement me clearly likha tha ki painting charges flat owner pay karega if tenant stays for more than 11 months
+
+2. STATUTORY VIOLATIONS & LEGAL GROUNDS:
+Your aforesaid act of arbitrarily and unilaterally withholding the legitimate dues of the Undersigned is illegal, fraudulent, and amounts to actionable default under the laws of India, including:
+• Violation of Transfer of Property Act, 1882 [Section 108(m) & (q) - Rights and Liabilities of Lessor and Lessee]: Tenant must restore premises in reasonable condition (subject to normal wear and tear); landlord must return the security deposit after deducting only mutually agreed damages.
+• Violation of Model Tenancy Act, 2021 (and State Tenancy Rules) [Section 13 - Security Deposit Cap and Refund Timeline]: Security deposit for residential premises is capped at maximum 2 months' rent and must be returned within 30 days of vacating after agreed deductions.
+• Violation of Indian Contract Act, 1872 [Section 73 - Compensation for Loss or Damage Caused by Breach of Contract]: When a contract is broken, the party who suffers is entitled to receive compensation for any loss or damage naturally arising from the breach.
+• Violation of Limitation Act, 1963 [Article 113 / General Schedule - Statutory Period of Limitation for Recovery]: General civil recovery suits must be filed within 3 years from the date payment became due. Consumer complaints have a 2-year limitation (Section 69 CPA).
+
+3. PEREMPTORY DEMAND:
+You are hereby called upon to pay and remit the entire legitimate claim of ₹60,000 along with interest @ 18% per annum within a period of 15 (FIFTEEN) DAYS from the date of receipt of this notice, into the bank account details provided hereunder or via demand draft.
+
+4. CONSEQUENCES OF NON-COMPLIANCE:
+Please take note that if you fail, neglect, or refuse to comply with the above demands within the stipulated 15-day cure period, the Undersigned shall be constrained to initiate appropriate civil proceedings, including filing a statutory complaint before the competent Consumer Disputes Redressal Commission (via e-Daakhil) / competent Court of Small Causes / Rent Authority, entirely at your risk, cost, and consequence. 
+
+In such event, you shall be held liable not only for the principal claim and enhanced interest, but also for comprehensive damages for mental agony, harassment, and all legal costs incurred.
+
+A copy of this Legal Notice is retained on record for production before the Court as documentary proof of pre-litigation demand.
+
+Yours sincerely,
+
+___________________________
+Rohan Verma
+(Aggrieved Party / Complainant)
+Contact: Contact on Record
